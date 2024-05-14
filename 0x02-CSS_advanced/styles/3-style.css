@@ -13,11 +13,11 @@ html {
 }
 
 body {
-     color: var(--text-color);
+    color: var(--text-color);
 }
 
 a {
-    color: #161616;
+    color: var(--text-color);
 }
 
 .visually-hidden {
